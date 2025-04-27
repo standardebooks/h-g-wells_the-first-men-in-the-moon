@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
-    <file path="chapter-20.xhtml">
-        <ignore>
-            <code>t-007</code>
-            <reason>The possessive s is part of a publication name and thus should be inside italics.</reason>
-        </ignore>
-    </file>
-    <file path="chapter-25.xhtml">
-        <ignore>
-            <code>t-051</code>
-            <reason>The dialog is interrupted by a paragraph-length explanation, so the next paragraph should be seem as part of the previous paragraph.</reason>
-        </ignore>
-    </file>
+	<file path="chapter-20.xhtml">
+		<ignore>
+			<code>t-007</code>
+			<reason>The possessive s is part of a publication name and thus should be inside italics.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-25.xhtml">
+		<ignore>
+			<code>t-051</code>
+			<reason>The dialog is interrupted by a paragraph-length explanation, so the next paragraph should be seem as part of the previous paragraph.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
