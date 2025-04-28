@@ -6,10 +6,4 @@
 			<reason>The possessive s is part of a publication name and thus should be inside italics.</reason>
 		</ignore>
 	</file>
-	<file path="chapter-25.xhtml">
-		<ignore>
-			<code>t-051</code>
-			<reason>The dialog is interrupted by a paragraph-length explanation, so the next paragraph should be seem as part of the previous paragraph.</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
